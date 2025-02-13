@@ -11,7 +11,7 @@
 ---
 
 ### 📲 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Lakshmitha Reddy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lakshmitha-reddy-1638b8290)
 
 
 ---
